@@ -1,0 +1,12 @@
+1|France is a country in Western Europe
+2|Known for its rich cultural heritage, art, and fashion
+3|Paris is the capital and largest city of France
+4|The country is famous for its cuisine, wine, and gastronomy
+5|The Eiffel Tower is France's most iconic landmark
+6|France has a diverse landscape from the Alps to the Mediterranean coast
+7|French contributions to literature, philosophy, and science are significant
+8|The Palace of Versailles showcases France's royal history
+9|France is a founding member of the European Union
+10|The French Revolution shaped modern democracy and human rights
+11|The Louvre Museum houses some of the world's most precious artworks
+12|France is a leader in tourism, receiving millions of visitors annually 
