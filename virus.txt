@@ -1,0 +1,5 @@
+A computer virus is a type of malicious software that can replicate itself
+Viruses can spread from computer to computer, infecting files and programs
+The first computer virus was created in 1971 called the Creeper virus
+Viruses can cause damage by corrupting files or stealing sensitive information
+Anti-virus software helps protect systems by detecting and removing viruses
